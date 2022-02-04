@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS TBL_ENCUESTA;
+
+CREATE TABLE TBL_ENCUESTA(
+    mail varchar(150) PRIMARY KEY,
+    musical_style varchar(250) NOT NULL
+);
