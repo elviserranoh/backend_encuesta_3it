@@ -21,7 +21,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Para poder correr el proyecto en local debes tener instalado Java, JDK 1.8 o superior, lo obtienes de la pagina oficial de oracle y la instalas normalmente como otro programa.
+Para poder correr el proyecto en local debes tener instalado Java, JDK 11 o superior, lo obtienes de la pagina oficial de oracle y la instalas normalmente como otro programa.
 
 Si te encuentras en una mac puedes ejecutar este comando, brew install --cask adoptopenjdk/openjdk/adoptopenjdk8.
 
@@ -72,7 +72,7 @@ Ahora que ya se tiene instalada las dependencias es hora de ejecutar el proyecto
 
 ## Construido con 🛠️
 
-* [Java 1.8](https://www.java.com/download/) - Lenguaje de Programación
+* [Java 11](https://www.java.com/download/) - Lenguaje de Programación
 * [Spring Boot 2.6.3](https://spring.io/projects/spring-boot) - Framework JavaEE
 * [Spring Boot Validation 2.6.3](https://spring.io/projects/spring-boot) - Provee las herramientas para realizar validaciones 
 * [Spring Boot Web 2.6.3](https://spring.io/projects/spring-boot) - Provee las caracteristicas para construir nuestra API REST
