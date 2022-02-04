@@ -1,7 +1,7 @@
 # BackendEncuesta3It
 
 _Este MicroServicio permite mediante 3 endpoint obtener el listado de estilos musicales, votar por el estilo musical preferido y obtener un listado donde se muestran las votaciones por estilos musicales.
-
+***
 ![alt text](https://i.ibb.co/ZW8kktz/Captura-de-Pantalla-2022-02-04-a-la-s-6-32-13-p-m.png)
 
 ## Comenzando 🚀
