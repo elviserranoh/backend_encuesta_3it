@@ -8,7 +8,7 @@ _Este MicroServicio permite mediante 3 endpoint obtener el listado de estilos mu
 
 ## Arquitectura Hexagonal 🚀
 
-_Para este proyecto se implemento la arquitectura exagonal, estructurada de la siguiente manera._
+_Para este proyecto se implemento la arquitectura hexagonal, estructurada de la siguiente manera._
 ***
 ![alt text](https://i.ibb.co/Chgm2N1/Captura-de-Pantalla-2022-02-04-a-la-s-6-41-53-p-m.png)
 
