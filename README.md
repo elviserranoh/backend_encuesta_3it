@@ -52,7 +52,7 @@ Una vez clonado el proyecto procedes abrirlo con tu IDE favorito como Eclipse, I
 
 el IDE de forma automatica procede a instalar las dependencias, o si prefieres desde el terminal puedes ejecutar
 
->>> mvnw install
+>>> mvn install
 
 Otra libreria que se uso es lombok, esta se debe instalar tambien en el IDE, para eso se debe descargar el .jar desde la web oficial, en la sección de Construido Con 🛠️ encontrara el enlace una vez descargado ejecutas el archivo.
 
