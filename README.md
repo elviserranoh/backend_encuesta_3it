@@ -67,7 +67,7 @@ _Correr el proyecto_
 ```
 Ahora que ya se tiene instalada las dependencias es hora de ejecutar el proyecto en local para eso ejecutamos el siguiente comando
 >>> mvn clean verify sonar:sonar
->>> mvnw spring-boot:run
+>>> mvn spring-boot:run
 ```
 
 ## Construido con 🛠️
